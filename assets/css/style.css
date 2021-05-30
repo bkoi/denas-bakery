@@ -30,9 +30,11 @@ body {
 .navbar-brand {
     background: no-repeat;
     display: block;
-    color:  #000;
+    color:  #fff;
     font-size: 2rem;
     font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .nav-link  {
@@ -41,6 +43,34 @@ body {
     font-weight: 700;
     text-transform: uppercase;
 }
+
+/* Carousel */
+
+.carousel-item {
+    height: 32 rem;
+    position: relative;
+}
+
+.carousel-caption {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 800;
+ }
+
+ .btn-shop, 
+ .btn-shop:active {
+    background-color: #a06b73;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+ }
+
+ .btn-shop:hover {
+    background-color: #9ebfc9;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+ }
 
 /* Footer  */
 
