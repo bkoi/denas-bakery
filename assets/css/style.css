@@ -61,7 +61,7 @@ body {
 /* Carousel */
 
 .carousel-item {
-    height: 32 rem;
+    height: 32rem;
     position: relative;
 }
 
@@ -80,6 +80,7 @@ body {
     text-align: center;
  }
 
+ 
  .btn-shop:hover {
     background-color: #a06b73;
     color: #fff;
@@ -119,7 +120,7 @@ iframe {
 /* Footer  */
 
 footer {
-    background: #bbe1ec;
+    background: #9ebfc9;
     color: #000;
     font-size: 1rem;
     font-weight: bold;
