@@ -58,15 +58,16 @@ body {
  }
 
  .btn-shop, 
+ .btn-submit,
  .btn-shop:active {
-    background-color: #a06b73;
+    background-color: #9ebfc9;
     color: #fff;
     font-weight: 700;
     text-align: center;
  }
 
  .btn-shop:hover {
-    background-color: #9ebfc9;
+    background-color: #a06b73;
     color: #fff;
     font-weight: 700;
     text-align: center;
