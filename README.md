@@ -106,7 +106,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ### Code
 
-I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/)
+I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w).
 ### Content
 
 The color scheme was inspired by [Easil](https://about.easil.com/how-to-create-a-stunning-color-palette-with-just-an-image/) to ensure better color contrast.
