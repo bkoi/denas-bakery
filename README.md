@@ -106,7 +106,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ### Code
 
-I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w), from [CI tutorials](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopment)
+I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w), from [CI tutorials](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopment), from [Bootsnipp](https://bootsnipp.com/snippets/VgVDB), from [OSTraining] (https://www.ostraining.com/blog/coding/responsive-google-maps/)
 
 ### Content
 

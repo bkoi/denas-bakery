@@ -2,7 +2,6 @@
 
 body {
     font-family: Montserrat, Lato, sans-serif;
-    font-size: 1rem;
     padding: 0;
     margin: 0;
     border: 0;
@@ -88,6 +87,35 @@ body {
     text-align: center;
  }
 
+/* Contact section */
+
+.get-in-touch {
+    margin-top: 1.875rem;
+    border-radius: 0;
+}
+
+#contact .row {
+    margin-bottom: 1.875rem;
+}
+
+iframe {
+    margin-bottom: 1.875rem;
+}
+
+.embed-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.embed-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 /* Footer  */
 
 footer {
