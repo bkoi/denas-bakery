@@ -105,6 +105,22 @@ body {
      font-weight: 700;
      text-align: right;
  }
+
+ .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  
+    > .col,
+    > [class*="col-5"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
+  .card-story {
+    border: solid 0.0625rem #bd7f75;
+    border-radius: 0;
+  }
 /* Contact section */
 
 .get-in-touch {
