@@ -27,6 +27,21 @@ body {
 
 /* Header */   
 
+.alert-container .col-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-wide-alert {
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 0.3125rem 0.9375rem;
+    background-color: #9ebfc9;
+    border-color: #9ebfc9;
+}
+
 .navbar-brand {
     background: no-repeat;
     display: block;
