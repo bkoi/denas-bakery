@@ -73,54 +73,51 @@ body {
     color: #fff;
     font-size: 4rem;
     font-weight: 800;
- }
+}
 
- .btn-shop, 
- .btn-submit {
+.btn-shop, 
+.btn-submit {
     background-color: #9ebfc9;
     color: #fff;
     font-weight: 700;
     text-align: center;
- }
+}
 
- .btn-submit:hover,
- .btn-shop:hover {
+.btn-submit:hover,
+.btn-shop:hover {
     background-color: #a06b73;
     color: #fff;
     font-weight: 700;
     text-align: center;
- }
+}
 
  /* Our Story section */
- .story-title {
+.story-title {
      font-family: Lobster, Montserrat, cursive;
      font-size: 4.5rem;
      font-weight: 700;
      text-align: center;
- }
+}
 
- #signature {
+#signature {
      font-family: "Give You Glory", Montserrat, cursive;
      font-size: 5rem;
      font-weight: 700;
      text-align: right;
- }
+}
 
- .no-gutters {
-    margin-right: 0;
-    margin-left: 0;
-  
-    > .col,
-    > [class*="col-5"] {
-      padding-right: 0;
-      padding-left: 0;
-    }
-  }
-
-  .card-story {
+.card-story {
     border: solid 0.0625rem #bd7f75;
     border-radius: 0;
-  }
+}
+
+/* Menu section */
+
+.card img {
+    width: 20rem;
+    height: 13.375rem;
+    object-fit: cover;
+}
 /* Contact section */
 
 .get-in-touch {
