@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Lato&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 body {
     font-family: Montserrat, Lato, sans-serif;
     padding: 0;
@@ -24,21 +28,21 @@ body {
     color: #000;
 }
 
-/* Header */   
+/* Header */  
 
-.alert-container .col-12 {
+.navalert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
 }
 
 .site-wide-alert {
+    background-color: #9ebfc9;
     color: #fff;
     font-size: 1rem;
+    border-color: #9ebfc9;
     border-radius: 0;
     margin-bottom: 0;
     padding: 0.3125rem 0.9375rem;
-    background-color: #9ebfc9;
-    border-color: #9ebfc9;
 }
 
 .navbar-brand {
@@ -72,15 +76,14 @@ body {
  }
 
  .btn-shop, 
- .btn-submit,
- .btn-shop:active {
+ .btn-submit {
     background-color: #9ebfc9;
     color: #fff;
     font-weight: 700;
     text-align: center;
  }
 
- 
+ .btn-submit:hover,
  .btn-shop:hover {
     background-color: #a06b73;
     color: #fff;
@@ -88,6 +91,20 @@ body {
     text-align: center;
  }
 
+ /* Our Story section */
+ .story-title {
+     font-family: Lobster, Montserrat, cursive;
+     font-size: 4.5rem;
+     font-weight: 700;
+     text-align: center;
+ }
+
+ #signature {
+     font-family: "Give You Glory", Montserrat, cursive;
+     font-size: 5rem;
+     font-weight: 700;
+     text-align: right;
+ }
 /* Contact section */
 
 .get-in-touch {
