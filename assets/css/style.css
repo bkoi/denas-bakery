@@ -37,12 +37,14 @@ body {
 
 .site-wide-alert {
     background-color: #9ebfc9;
-    color: #fff;
+    color: #000;
     font-size: 1rem;
-    border-color: #9ebfc9;
-    border-radius: 0;
-    margin-bottom: 0;
-    padding: 0.3125rem 0.9375rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 1rem;
+    right: 1rem;
+    z-index: 1;
+    position: absolute;
 }
 
 .navbar-brand {
@@ -94,7 +96,7 @@ body {
 .btn-shop, 
 .btn-submit {
     background-color: #9ebfc9;
-    color: #fff;
+    color: #000;
     font-weight: 700;
     text-align: center;
 }
@@ -102,7 +104,7 @@ body {
 .btn-submit:hover,
 .btn-shop:hover {
     background-color: #a06b73;
-    color: #fff;
+    color: #000;
     font-weight: 700;
     text-align: center;
 }
