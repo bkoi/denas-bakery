@@ -30,22 +30,6 @@ body {
 
 /* Header */  
 
-.container-fluid .navalert-container .col-12{
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.site-wide-alert {
-    background-color: #9ebfc9;
-    color: #000;
-    font-size: 1rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
-    margin-top: 1rem;
-    right: 1rem;
-    z-index: 1;
-    position: absolute;
-}
 
 .navbar-brand {
     background: no-repeat;
@@ -88,16 +72,20 @@ body {
 }
 
 .carousel-caption {
-    color: #fff;
-    font-size: 4rem;
-    font-weight: 800;
+    color: #000;
+    font-size: 5rem;
+    font-weight: 900;
+    text-shadow: 0.0625rem 0.0625rem 0.0625rem #000;
+}
+.overlay-image {
+    opacity: 0.7;
 }
 
 .btn-shop, 
 .btn-submit {
     background-color: #9ebfc9;
     color: #000;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
 }
 
@@ -105,7 +93,7 @@ body {
 .btn-shop:hover {
     background-color: #a06b73;
     color: #000;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
 }
 
