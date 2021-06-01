@@ -45,10 +45,6 @@ body {
     padding: 0.3125rem 0.9375rem;
 }
 
-.text-responsive {
-    font-size: calc(100% + 1vwv + 1vh);
-}
-
 .navbar-brand {
     background: no-repeat;
     display: block;
