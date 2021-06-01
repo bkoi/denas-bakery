@@ -44,7 +44,77 @@ body {
     margin-bottom: 0;
     padding: 0.3125rem 0.9375rem;
 }
+{
+    color: rgba(0,0,0,.5);
+}
+@media (min-width: 576px)
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+}
+.nav-link {
+    color: #000;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.bg-color-primary {
+    background-color: #fccbc3;
+    color: #000;
+}
+body {
+    font-family: Montserrat, Lato, sans-serif;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
 
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+ 
 .navbar-brand {
     background: no-repeat;
     display: block;
@@ -124,7 +194,7 @@ body {
 }
 
 .card-text: {
-    
+
 }
 /* Contact section */
 
