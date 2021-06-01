@@ -92,32 +92,36 @@ body {
 }
 
  /* Our Story section */
+
 .story-title {
      font-family: Lobster, Montserrat, cursive;
-     font-size: 4.5rem;
-     font-weight: 700;
+     font-size: 3rem;
+     font-weight: 400;
      text-align: center;
+     margin: 0.3125rem;
+     padding: 0.125rem;
 }
 
 #signature {
      font-family: "Give You Glory", Montserrat, cursive;
-     font-size: 5rem;
+     font-size: 4rem;
      font-weight: 700;
      text-align: right;
 }
 
-.card-story {
-    border: solid 0.0625rem #bd7f75;
-    border-radius: 0;
+#baker {
+    width: 29rem;
+    height: 26.5rem;
+    object-fit: cover;
 }
 
 /* Menu section */
 
-.card img {
+/*.card img {
     width: 20rem;
     height: 13.375rem;
     object-fit: cover;
-}
+}*/
 /* Contact section */
 
 .get-in-touch {
