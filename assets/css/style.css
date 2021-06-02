@@ -112,7 +112,7 @@ html, body {
 .btn-submit:hover,
 .btn-shop:hover {
     background-color: #a06b73;
-    color: #000;
+    color: #fff;
     font-weight: 600;
     text-align: center;
 }
