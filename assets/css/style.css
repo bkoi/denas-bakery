@@ -41,6 +41,13 @@ body {
     text-align: center;
 }
 
+.navbar-collapse .navbar-text {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .nav-link  {
     color:  #000;
     font-size: 1rem;
