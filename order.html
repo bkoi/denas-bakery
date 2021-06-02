@@ -58,76 +58,71 @@
       </div>
 
       <form action="thankyou.html" method="get">
-        <div class="row">
-          <div class="col-4 mx-5">
-            <label for="firstName">First name</label>
-            <input type="text" name="firstName" class="form-control" id="firstName" placeholder="First name" required>
+        <fieldset>
+          <div class="row">
+            <div class="form-group col-10 mx-5">
+              <label for="name-field">Name</label>
+              <input id="name-field" type="text" name="full-name" class="form-control" placeholder="Your name" required>
+            </div>
           </div>
-          <div class="col-4 mx-5">
-            <label for="lastName">Last name</label>
-            <input type="text" name="lastName" class="form-control" id="lastName" placeholder="Last name" required>
+          <div class="row">
+            <div class="form-group col-10 mx-5">
+              <label for="email-field">Email</label>
+              <input id="email-field" type="email" name="email" class="form-control" placeholder="name@example.com" aria-describedby="emailHelp" required>
+              <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
           </div>
-        </div>
-        <br/>
+          <div class="row">
+            <div class="form-group col-10 mx-5">
+              <label for="mobile-field">Mobile</label>
+              <input id="mobile-field" type="number" name="mobile" class="form-control"  placeholder="01234567890" required>
+            </div>
+          </div>
+        </fieldset>
 
-        
-        <div class="form-group col-9 mx-5">
-            <label for="email">Email address</label>
-            <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com" aria-describedby="emailHelp" required>
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-        </div>
-        <div class="form-group col-9 mx-5">
-            <label for="password">Password</label>
-            <input type="password" name="password" class="form-control" id="password" placeholder="password1" required>
-        </div>
-        <div class="form-group col-9 mx-5">
-            <label for="mobile">Mobile</label>
-            <input type="number" name="mobile" class="form-control" id="mobile"  placeholder="01234567890" required>
-        </div>
-        <br/>
-        <div class="row">
-          <div class="col-md-3 mx-5">
-            <label for="product-select">Product </label>
-            <select class="custom-select" id="product-select">
-              <option selected>Choose a product </option>
-              <option value="banana-bread">Banana bread</option>
-              <option value="bread">Bread</option>
-              <option value="brownies">Brownies</option>
-              <option value="carrot-cake">Carrot cake</option>
-              <option value="cheesecake">Cheesecake</option>
-              <option value="chocolate-cookies">Chocolate cookies</option>
-              <option value="flatbread">Flatbread</option>
-              <option value="fruit-tart">Fruit tart</option>
-              <option value="brownies">Brownies</option>
-              <option value="carrot-cake">Carrot cake</option>
-              <option value="banana-bread">Banana bread</option>
-              <option value="brownies">Brownies</option>
-              <option value="carrot-cake">Carrot cake</option>
-          </select>
+        <fieldset>
+          <div class="row">
+            <div class="col-3 mx-5 py-5">
+              <label for="product-select">Product </label>
+              <select id="product-select"class="custom-select">
+                <option selected>Choose a product </option>
+                <option value="banana-bread">Banana bread</option>
+                <option value="bread">Bread</option>
+                <option value="brownies">Brownies</option>
+                <option value="carrot-cake">Carrot cake</option>
+                <option value="cheesecake">Cheesecake</option>
+                <option value="chocolate-cookies">Chocolate cookies</option>
+                <option value="flatbread">Flatbread</option>
+                <option value="fruit-tart">Fruit tart</option>
+                <option value="brownies">Brownies</option>
+                <option value="carrot-cake">Carrot cake</option>
+                <option value="banana-bread">Banana bread</option>
+                <option value="brownies">Brownies</option>
+                <option value="carrot-cake">Carrot cake</option>
+              </select>
+            </div>
+            <div class="col-3 mx-5 py-5">
+              <label for="quantity-select">Quantity </label>
+              <select id="quantity-select" class="custom-select">
+                <option selected>Select </option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="other">other</option>
+              </select>
+            </div>
+            <div class="col-2 mx-4 py-5">
+              <label for="delivery-date">Delivery date </label>
+              <br>
+              <input id="delivery-date" type="date" name="delivery-date" value="2021-06-03" min="2021-06-03" max="2021-12-31">
+            </div>
+            <div class="col-2 mx-5 py-5">
+              <button class="btn-submit" type="submit">Submit</button>
+            </div>
           </div>
-          <br/>
-          <div class="col-md-3 mx-3">
-            <label for="quantity-select">Quantity </label>
-            <select class="custom-select" id="quantity-select">
-              <option selected>Select </option>
-              <option value="1">1</option>
-              <option value="2">2</option>
-              <option value="3">3</option>
-              <option value="4">4</option>
-              <option value="5">5</option>
-              <option value="other">other</option>
-            </select>
-          </div>
-          <div class="col-md-3 mx-3 my-5">
-            <label for="delivery-date">Delivery date </label>
-            <input type="date" id="delivery-date" name="delivery-date" value="2021-05-28" min="2021-05-28" max="2021-12-31">
-          </div>
-          
-        </div>
-        <br/>
-        <div>
-          <button class="btn-submit" type="submit">Submit</button>
-        </div>
+        </fieldset>
       </form>
     </section>
 

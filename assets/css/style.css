@@ -148,24 +148,33 @@ html, body {
 
 /* Menu section */
 
+.card-body {
+    padding-right: 0;
+}
+
 .menu-item {
     width: 22rem;
     height: 15rem;
    /* object-fit: cover;*/
 }
 
-.card-text,
 .card-title .card-text {
     white-space: pre-wrap;
 }
 
 /* Order section */
+.form-control .form-text .text-muted {
+    color: #000;
+}
+
 .container .text-center  {
     margin: 0;
 }
 
+.right {
+    float: right !important;
+}
 /* Thank You section */
-
 
 
 /* Contact section */
