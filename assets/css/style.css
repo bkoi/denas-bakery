@@ -154,6 +154,11 @@ html, body {
    /* object-fit: cover;*/
 }
 
+.card-text,
+.card-title .card-text {
+    white-space: pre-wrap;
+}
+
 /* Order section */
 .container .text-center  {
     margin: 0;
