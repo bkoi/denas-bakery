@@ -42,8 +42,7 @@ html, body {
     color: #000;
 }
 
-/* Header */  
-
+/* Navbar */  
 
 .navbar-brand {
     background: no-repeat;
@@ -80,8 +79,8 @@ html, body {
 .navbar-light .navbar-nav .nav-link:hover {
     color: #fff;
 }
-/* Carousel */
 
+/* Carousel */
 
 .carousel,
 .carousel-item,
@@ -121,7 +120,7 @@ html, body {
  /* Our Story section */
 
  .container .our-story {
-     font-weight: 500;
+     font-weight: 700;
  }
 
 .story-title {
