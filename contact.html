@@ -54,59 +54,72 @@
 <!-- Contact us section-->
     <section class="bg-color-tertiary" id="contact">
       <div class="container py-4">
-        <h1 class="text-center story-title">Contact Us</h1>
+          <h1 class="text-center story-title">Contact Us</h1>
       </div>
-
-      <form action="index.html" method="get">
-        <fieldset>
-            <div class="form-group col-5">
-                <label for="name-field">Name</label>
-                <input id="name-field" type="text" name="full-name" class="form-control" placeholder="Your name" required>
-            </div>
-            <div class="form-group col-5">
-                <label for="email-field">Email</label>
-                <input id="email-field" type="email" name="email" class="form-control" placeholder="name@example.com" aria-describedby="emailHelp" required>
-                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-            </div>
-            <div class="form-group col-5">
-                <label for="mobile-field">Mobile</label>
-                <input id="mobile-field" type="number" name="mobile" class="form-control"  placeholder="01234567890" required>
-            </div>
-            <div class="form-group col-5">
-                <h6>Type your message here</h6>
-                <textarea name="message" id="message" rows="10" cols="40" placeholder="Please enter your message here ..."></textarea>
-            </div>
-            <div class="col-5 mx-2 py-5">
-                <button class="btn-submit" type="submit">Submit</button>
-            </div>
-        </fieldset> 
-      </form>
-    </section>
-   
-    <section class="bg-color-tertiary">
-      <div>
-        <div class="container">
-          <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2228.782389940552!2d-3.42301828408772!3d56.03975658063107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887ce20b83bc493%3A0x9a08670731d98eae!2s1%20Lowry%20Pl%2C%20Rosyth%2C%20Dunfermline%20KY11%202PR!5e0!3m2!1sen!2suk!4v1622464864674!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>>
+      <div class="container">
+        <div class="row">
+          <div class="col-6">
+            <form action="index.html" method="get">
+              <fieldset>
+                <div class="row">
+                  <div class="col-12 mx-auto p-0">
+                      <label for="name-field">Name</label>
+                      <input id="name-field" type="text" name="full-name" class="form-control" placeholder="Your name" required>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-12 mx-auto p-0">
+                      <label for="email-field">Email</label>
+                      <input id="email-field" type="email" name="email" class="form-control" placeholder="name@example.com" aria-describedby="emailHelp" required>
+                      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-12 mx-auto p-0">
+                      <label for="mobile-field">Mobile</label>
+                      <input id="mobile-field" type="number" name="mobile" class="form-control"  placeholder="01234567890" required>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-12 mx-auto p-0">
+                      <h6>Type your message here</h6>
+                      <textarea name="message" id="message" rows="10" cols="40" placeholder="Please enter your message here ..."></textarea>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-12 mx-auto p-0">
+                      <button class="btn-submit" type="submit">Submit</button>
+                  </div> 
+                </div>
+              </fieldset> 
+            </form> 
           </div>
-          <div>
-              <span>Location:</span>
-              <span>1 Lowry Place, Rosyth, KY11 2PR</span>
+          <div class="col-6">
+            <div class="col-12 mx-auto p-4 contact-map">
+                <div class="embed-responsive embed-responsive-1by1">
+                  <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2228.782389940552!2d-3.42301828408772!3d56.03975658063107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887ce20b83bc493%3A0x9a08670731d98eae!2s1%20Lowry%20Pl%2C%20Rosyth%2C%20Dunfermline%20KY11%202PR!5e0!3m2!1sen!2suk!4v1622464864674!5m2!1sen!2suk" width="100" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe>>
+                </div>
+                <br>
+                <div class="py-2">
+                    <span>Location:</span>
+                    <span>1 Lowry Place, Rosyth, KY11 2PR</span>
+                </div>
+                <br>
+                <div>
+                    <span>Opening hours:</span>
+                    <span>8am-5pm Mon-Fri, 9am-4pm Sat, 10am-4pm Sun</span>
+                </div>
+                <br>
+                <div>
+                  <span>Email:</span>
+                  <span>hello@denasbakery.com</span>
+                </div>
+            </div>
           </div>
-          <br>
-          <div>
-              <span>Opening hours:</span>
-              <span>8am-5pm Mon-Fri, 9am-4pm Sat, 10am-4pm Sun</span>
-          </div>
-          <br>
-          <div>
-            <span>Email:</span>
-            <span>hello@denasbakery.com</span>
-          </div>
-      </div>
+        </div>
+      </div>  
     </section>
        
-        
 <!--Footer with social media icons-->
 
   <footer class="bg-color-secondary py-3">          

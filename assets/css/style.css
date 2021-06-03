@@ -185,29 +185,25 @@ html, body {
     margin-bottom: 1.875rem;
 }
 
-/*#message .form-group {
-    border: 0.0625rem solid #bd7f75;
-    border-radius: 0.625rem;
-    outline: none;*/
-    
-}
 iframe {
     margin-bottom: 1.875rem;
 }
-
+.contact-map {
+    padding-top: 2rem;
+}
 .embed-responsive {
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
 }
 
 .embed-responsive iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
 /* Footer  */
 
