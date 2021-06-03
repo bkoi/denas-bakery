@@ -188,6 +188,10 @@ html, body {
     margin-bottom: 1.875rem;
 }
 
+#message .form-control {
+    max-width: 100%
+}
+
 iframe {
     margin-bottom: 1.875rem;
 }
