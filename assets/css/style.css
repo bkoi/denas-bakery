@@ -133,17 +133,7 @@ html, body {
      padding-bottom: 1.25rem;
 }
 
-#signature {
-     font-family: "Give You Glory", Montserrat, cursive;
-     font-size: 4rem;
-     font-weight: 700;
-     color: #fff;
-     text-align: right;
-}
-
 #baker {
-    /*width: 28.90625rem;
-    height: 32rem;*/
     max-width: 100%;
     height: auto;
     display: block;
