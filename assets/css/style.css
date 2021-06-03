@@ -142,8 +142,11 @@ html, body {
 }
 
 #baker {
-    width: 28.90625rem;
-    height: 32rem;
+    /*width: 28.90625rem;
+    height: 32rem;*/
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 /* Menu section */
@@ -175,11 +178,7 @@ html, body {
     float: right !important;
 }
 
-/* Thank You section */
-
-
 /* Contact section */
-
 
 #contact .row {
     margin-bottom: 1.875rem;
