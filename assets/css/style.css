@@ -148,16 +148,19 @@ html, body {
 
 /* Menu section */
 
-.card-body {
-    padding-right: 0;
+
+.menu-item .img-fluid{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
-.menu-item {
-    width: 22rem;
-    height: 15rem;
-   /* object-fit: cover;*/
+.card .savoury-item {
+    position: relative;
 }
-
 .card-title .card-text {
     white-space: pre-wrap;
 }
