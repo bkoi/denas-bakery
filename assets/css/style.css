@@ -180,15 +180,17 @@ html, body {
 
 /* Contact section */
 
-.get-in-touch {
-    margin-top: 1.875rem;
-    border-radius: 0;
-}
 
 #contact .row {
     margin-bottom: 1.875rem;
 }
 
+/*#message .form-group {
+    border: 0.0625rem solid #bd7f75;
+    border-radius: 0.625rem;
+    outline: none;*/
+    
+}
 iframe {
     margin-bottom: 1.875rem;
 }
