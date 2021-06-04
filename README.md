@@ -57,7 +57,7 @@ This project is for educational purposes only and has been created for the User-
     I used [Balsamiq](https://balsamiq.com/wireframes/desktop/docs/) when creating the wireframes for my website. I started with designing the layout of the desktop view, then moved onto creating my tablet wireframe, while keeping in mind what my website would look like on a mobile device before finalising its design on the wireframe. I redesigned my wireframes a couple of times until I was satisfied that there was not too much information crammed onto each page, they complied with the accessibility criteria, also with the pre-defined user stories, and the layout enabled a pleasant user experience. My final wireframes can be accessed below.
 
     #### Desktop Wireframe - [View](./wireframes/desktop-wireframe-final.png)
-    #### Tablet Wireframe - [View](./wireframes/tablet-wireframe.png)
+    #### Tablet Wireframe - [View](./wireframes/tablet-wireframe-final.png)
     #### Mobile Wireframe - [View](./wireframes/mobile-wireframe.png)
 ---
 ## Features
@@ -134,9 +134,16 @@ Some of the scripts used in the menu section can be found on [The Loopy Whisk](h
 
 The structuring of my README.md file was majorly influenced by the sample provided by [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and that created by a former student, [Anouk Smet](https://github.com/AnoukSmet/Naturazy#readme).
 
+### Design
+
+The design and content of [SugarDaddy's Bakery](https://www.youneedcake.co.uk/), [Bakery Nouveau](https://www.bakerynouveau.com/) and and a [Wix bakery template](https://www.wix.com/website-template/view/html/1798) deeply influenced my design ideas when creating my website. 
+
+
 ### Media
 
-The pictures on the website originate from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/)
+The pictures on the website originate from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/).
 
 ### Acknowledgements
+
+I would like to thank my Mentor for his helpful feedback and also the Slack community who had dealt with the same issues that I encountered during the development of this project. It was tremendously useful to have access to their previous challenges and their solutions. 
 
