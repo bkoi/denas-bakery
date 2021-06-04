@@ -102,9 +102,11 @@ This project is for educational purposes only and has been created for the User-
 ## Testing
 
 ### Validator Testing
-1. [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
+The below validator services were used to ensure the syntactic correctness of the project.
+1. [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Result](./validators/html-validator.jpg)
 1. [W3C CS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
 
+The [WAVE Chrome Extension Tool](https://wave.webaim.org/extension/) was utilised to ensure better accessibility of each page of the website. 
 ### Unfixed Bugs
 ---
 ## Deployment
