@@ -46,7 +46,7 @@ This project is for educational purposes only and has been created for the User-
         * #000000: After deciding not to use #59312a as my main text color, I cast my vote on black for a better contrast.
         * #9ebfc9 and #a06b73: These colours were used for my call-to-action buttons to provide an upbeat contrast with their backgound color or image. I used two different text colors, black on the blue buttons which change to white on a mauve button once being hovered over or clicked on.
     * ### Typography
-        After trialling potential font styles on [Google Fonts](https://fonts.google.com/), I decided to create my logo with the [Lobster](https://fonts.google.com/?query=Lobster) font as it looks playful and its handwritten nature give authenticity to my logo/brand. Out of the suggested pairings, [Montserrat](https://fonts.google.com/specimen/Lobster?query=Lobster#pairings) seemed to be the most suitable one to create the illusion of space and lightness on the website, I later added [Lato](https://fonts.google.com/specimen/Lato?query=lato#pairings) as an alterantive font style. [Give You Glory](https://fonts.google.com/specimen/Give+You+Glory?category=Handwriting#pairings) was used to create the signature on the Our Story section.
+        After trialling potential font styles on [Google Fonts](https://fonts.google.com/), I decided to create my logo with the [Lobster](https://fonts.google.com/?query=Lobster) font as it looks playful and its handwritten nature give authenticity to my logo/brand. Out of the suggested pairings, [Montserrat](https://fonts.google.com/specimen/Lobster?query=Lobster#pairings) seemed to be the most suitable one to create the illusion of space and lightness on the website, I later added [Lato](https://fonts.google.com/specimen/Lato?query=lato#pairings) as an alterantive font style. 
     * ### Icons
         In order to create a simple, yet effective style, I only used a few icons from the [Font Awesome](https://fontawesome.com/) library. I relied on them to make the website visually more appealing, for example, by using social media icons or a hamburger icon to make the UI design sleeker on mobile devices.
     * ### Structure
@@ -54,9 +54,9 @@ This project is for educational purposes only and has been created for the User-
 
 * ### Wireframes
 
-    I used [Balsamiq](https://balsamiq.com/wireframes/desktop/docs/) when creating the wireframes for my website. I started with designing the layout of the desktop view, then moved onto creating my tablet wireframe, while keeping in mind what my website would look like on a mobile device before finalising its design on the wireframe. I redesigned my wireframes a couple of times until I was satisfied that there was not too much information crammed onto each page and the layout enabled a pleasant user experience. My wireframes can be accessed below.
+    I used [Balsamiq](https://balsamiq.com/wireframes/desktop/docs/) when creating the wireframes for my website. I started with designing the layout of the desktop view, then moved onto creating my tablet wireframe, while keeping in mind what my website would look like on a mobile device before finalising its design on the wireframe. I redesigned my wireframes a couple of times until I was satisfied that there was not too much information crammed onto each page, they complied with the accessibility criteria, also with with the pre-defined user stories and the layout enabled a pleasant user experience. My wireframes can be accessed below.
 
-    #### Desktop Wireframe - [View](./wireframes/desktop-wireframe.png)
+    #### Desktop Wireframe - [View](./wireframes/desktop-wireframe-final.png)
     #### Tablet Wireframe - [View](./wireframes/tablet-wireframe.png)
     #### Mobile Wireframe - [View](./wireframes/mobile-wireframe.png)
 ---
