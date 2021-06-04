@@ -5,7 +5,7 @@
 [View the live site here](https://bkoi.github.io/denas-bakery/)
 
 
-# Project Goal
+## Project Goal
 
 DeNa's Bakery has been created to provide an online shop for people who either cannot consume gluten free bakery products due to their gluten sensitivity, wheat allergy or coeliac disease, or they refrain from eating gluten as a part of their lifestyle choice. It promotes delicious, freshly-baked, savoury and sweet gluten-free bakery products made by using only quality ingredients. All the creations are made in a gluten-safe way so no cross-contamination can occur which makes these goodies safe and enjoyable even for customers with coeliac disease. Customers are offered the option to submit their orders online, alternatively, they can also pop into the shop to purchase some of the creations. By completing an online form, catering can be ordered for garden parties, barbeques or smaller events at home.
 
@@ -36,7 +36,7 @@ This project is for educational purposes only and has been created for the User-
 
 * ### Design
     * #### Color Scheme
-        My final color palette was inspired by the one found on [Easil](https://about.easil.com/how-to-create-a-stunning-color-palette-with-just-an-image/) which has a considerably better good contrast ratio as you can see below.
+        My final color palette was inspired by one found on [Easil](https://about.easil.com/how-to-create-a-stunning-color-palette-with-just-an-image/) which has a considerably good contrast ratio.
 
         ![New Color Scheme](./assets/images/new-color-scheme.png)
 
@@ -54,7 +54,7 @@ This project is for educational purposes only and has been created for the User-
 
 * ### Wireframes
 
-    I used [Balsamiq](https://balsamiq.com/wireframes/desktop/docs/) when creating the wireframes for my website. I started with designing the layout of the desktop view, then moved onto creating my tablet wireframe, while keeping in mind what my website would look like on a mobile device before finalising its design on the wireframe. I redesigned my wireframes a couple of times until I was satisfied that there was not too much information crammed onto each page, they complied with the accessibility criteria, also with with the pre-defined user stories and the layout enabled a pleasant user experience. My wireframes can be accessed below.
+    I used [Balsamiq](https://balsamiq.com/wireframes/desktop/docs/) when creating the wireframes for my website. I started with designing the layout of the desktop view, then moved onto creating my tablet wireframe, while keeping in mind what my website would look like on a mobile device before finalising its design on the wireframe. I redesigned my wireframes a couple of times until I was satisfied that there was not too much information crammed onto each page, they complied with the accessibility criteria, also with the pre-defined user stories, and the layout enabled a pleasant user experience. My final wireframes can be accessed below.
 
     #### Desktop Wireframe - [View](./wireframes/desktop-wireframe-final.png)
     #### Tablet Wireframe - [View](./wireframes/tablet-wireframe.png)
