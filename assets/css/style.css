@@ -127,7 +127,7 @@ html, body {
      font-family: Lobster, Montserrat, cursive;
      font-size: 3rem;
      font-weight: 400;
-     text-align: center;
+     text-align: left;
      margin-top: 0;
      padding-top: 0;
      padding-bottom: 1.25rem;
@@ -208,6 +208,8 @@ footer {
     text-align: center;
     padding: 0.3125rem;
     margin-top: auto;
+    position: absolute;
+    bottom: 0;
 }
 
 .social-networks i {
