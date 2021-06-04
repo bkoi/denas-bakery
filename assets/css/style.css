@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Lato&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body {
@@ -208,8 +206,6 @@ footer {
     text-align: center;
     padding: 0.3125rem;
     margin-top: auto;
-    position: absolute;
-    bottom: 0;
 }
 
 .social-networks i {
