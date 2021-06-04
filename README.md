@@ -80,6 +80,8 @@ This project is for educational purposes only and has been created for the User-
     jQuery was part of the Bootstrap bundle and was incorporated in order to make the navbar responsive.
 1. [Balsamiq:](https://balsamiq.com/wireframes/)
     Balsamiq was used to create the wireframes for the design before implementing them.
+1. [Am I Responsive](http://ami.responsivedesign.is/)
+    Am I Responsive was used to create the mockup images for the final website.
 1. [Google Fonts:](https://fonts.google.com/)
     Google Fonts provided the inspiration for my font choices.
 1. [Font Awesome:](https://fontawesome.com/)
@@ -90,7 +92,12 @@ This project is for educational purposes only and has been created for the User-
     The GitPod environment was used to develop the code before committing and pushing it to GitHub.
 1. [GitHub:](https://github.com/)
     GitHub was utilised to store the project's code.
+1. [Microsoft Photos App](https://www.microsoft.com/en-gb/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
+    This Photos App enabled the resizing of some of the pictures used for this project.
+1. [The HOTH](https://logomaker.thehoth.com/)
+    The HOTH online logo maker tool made the creation of the website's logo possible.
 
+    
 ---
 ## Testing
 
@@ -114,13 +121,16 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ### Code
 
-I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w), from [CI tutorials](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopment), from [Bootsnipp](https://bootsnipp.com/snippets/VgVDB), from [OSTraining] (https://www.ostraining.com/blog/coding/responsive-google-maps/), [CSS Tricks](https://css-tricks.com/couple-takes-sticky-footer/).
+I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w), from [CI tutorials](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopment), from [Bootsnipp](https://bootsnipp.com/snippets/VgVDB), from [OSTraining](https://www.ostraining.com/blog/coding/responsive-google-maps/), [CSS Tricks](https://css-tricks.com/).
+
 
 ### Content
 
 The color scheme was inspired by [Easil](https://about.easil.com/how-to-create-a-stunning-color-palette-with-just-an-image/) to ensure better color contrast.
 
-Some of the scripts used in the menu section can be found on [The Loopy Whisk](https://theloopywhisk.com/2020/04/02/ultimate-gluten-free-bread/), on [Immigrant's Table](https://immigrantstable.com/raspberry-mini-pavlovas/), on [Gluten Free on a Shoestring](https://glutenfreeonashoestring.com/gluten-free-carrot-cake-cupcakes/)
+Some of the scripts used in the menu section can be found on [The Loopy Whisk](https://theloopywhisk.com/2020/04/02/ultimate-gluten-free-bread/), on [Immigrant's Table](https://immigrantstable.com/raspberry-mini-pavlovas/), on [Gluten Free on a Shoestring](https://glutenfreeonashoestring.com/gluten-free-carrot-cake-cupcakes/).
+
+The structuring of my README.md file was majorly influenced by the sample provided by [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and that created by a former student, [Anouk Smet](https://github.com/AnoukSmet/Naturazy#readme).
 
 ### Media
 
