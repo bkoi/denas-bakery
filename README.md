@@ -1,7 +1,13 @@
-# DeNa's Bakery
+<div align="center"><h1> DeNa's Bakery</h1></div>
+
+## <img src="./wireframes/mockup.png">
+
+[View the live site here](https://bkoi.github.io/denas-bakery/)
 
 
-DeNa's Bakery has been created to provide an online shop for people who either cannot consume gluten free bakery products due to their gluten sensitivity, wheat allergy or coeliac disease, or they refrain from eating gluten as a part of their lifestyle choice. It promotes delicious, freshly-baked, savoury and sweet gluten-free bakery products made by using only quality ingredients. All the creations are made in a gluten-safe way so no cross-contamination can occur which makes these goodies safe and enjoyable even for customers with coeliac disease. Customers are offered the option to pop into the shop to purchase some of the creations, alternatively, they can also submit their orders online. By completing an online form, catering can be ordered for garden parties, barbeques or smaller events at home.
+# Project Goal
+
+DeNa's Bakery has been created to provide an online shop for people who either cannot consume gluten free bakery products due to their gluten sensitivity, wheat allergy or coeliac disease, or they refrain from eating gluten as a part of their lifestyle choice. It promotes delicious, freshly-baked, savoury and sweet gluten-free bakery products made by using only quality ingredients. All the creations are made in a gluten-safe way so no cross-contamination can occur which makes these goodies safe and enjoyable even for customers with coeliac disease. Customers are offered the option to submit their orders online, alternatively, they can also pop into the shop to purchase some of the creations. By completing an online form, catering can be ordered for garden parties, barbeques or smaller events at home.
 
 The intuitive navigation and the current features make the user experience seamless and enjoyable.
 
