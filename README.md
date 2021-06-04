@@ -107,6 +107,15 @@ The below validator services were used to ensure the syntactic correctness of th
 1. [W3C CS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
 
 The [WAVE Chrome Extension Tool](https://wave.webaim.org/extension/) was utilised to ensure better accessibility of each page of the website. 
+
+### Bugs
+
+#### Order page 
+
+When carrying out viewport checks via the Chrome Developer Tool, 
+
+#### Contact page
+
 ### Unfixed Bugs
 ---
 ## Deployment
@@ -132,7 +141,7 @@ The color scheme was inspired by [Easil](https://about.easil.com/how-to-create-a
 
 Some of the scripts used in the menu section can be found on [The Loopy Whisk](https://theloopywhisk.com/2020/04/02/ultimate-gluten-free-bread/), on [Immigrant's Table](https://immigrantstable.com/raspberry-mini-pavlovas/), on [Gluten Free on a Shoestring](https://glutenfreeonashoestring.com/gluten-free-carrot-cake-cupcakes/).
 
-The structuring of my README.md file was majorly influenced by the sample provided by [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and that created by a former student, [Anouk Smet](https://github.com/AnoukSmet/Naturazy#readme).
+The structuring of my README.md file was majorly influenced by the sample provided by [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and the README.md file created by a former student, [Anouk Smet](https://github.com/AnoukSmet/Naturazy#readme) whose work was recommended via Slack.
 
 ### Design
 
@@ -145,5 +154,5 @@ The pictures on the website originate from [Unsplash](https://unsplash.com/) and
 
 ### Acknowledgements
 
-I would like to thank my Mentor for his helpful feedback and also the Slack community who had dealt with the same issues that I encountered during the development of this project. It was tremendously useful to have access to their previous challenges and their solutions. 
+I would like to thank my Mentor for his helpful feedback, and also the Slack community who had dealt with the same issues that I encountered during the development of this project. It was tremendously useful to have access to their previous challenges and their solutions. 
 

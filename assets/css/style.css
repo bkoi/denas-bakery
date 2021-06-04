@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+html {
+    height: -webkit-fill-available;
+}
+
 body {
     font-family: Montserrat, Lato, sans-serif;
     padding: 0;
@@ -9,10 +13,12 @@ body {
     border: 0;
     display: flex;
     flex-direction: column;
+    height: 100vh;
+    height: -webkit-fill-available;
 }
 
-html, body {
-    height: 100vh;
+section {
+    flex: 1;
 }
 
 .content {
