@@ -40,9 +40,11 @@ This project is for educational purposes only and has been created for the User-
 
         ![New Color Scheme](./assets/images/new-color-scheme.png)
 
-        * #fccbc3: This bright and playful, baby pink background color provides a good contrast with black, because the earth-toned color, #59312a would not have provided a proper contrast. My choice of background color emphasizes that eating bakery products can still be fun and without any pain, allergic reactions or suffering which are the symptoms of gluten sensitivity and coeliac disease. 
+        * #fccbc3: This bright and playful, baby pink background color provides a good contrast with black, which my previous choice, the earth-toned #59312a would not have provided. My choice of background color for the navigation bar emphasizes that eating bakery products can still be fun and without any pain, allergic reactions or suffering which are the symptoms of gluten sensitivity and coeliac disease.
+        * #bd7f75: I decided to use this colour for the main part of the body element as it is a warmer shade, is in line with the concept of earthiness and looks well with black as the main text color.
+        * #9ebfc9: To contrast the warmth of the #bd7f75, this cool, bright blue color was incorporated to bring a pop of color to the buttons and the footer.
         * #000000: After deciding not to use #59312a as my main text color, I cast my vote on black for a better contrast.
-        * #9ebfc9 and #a06b73: These colours were used for my call-to-action buttons to provide an upbeat contrast with their backgound color or image.
+        * #9ebfc9 and #a06b73: These colours were used for my call-to-action buttons to provide an upbeat contrast with their backgound color or image. I used two different text colors, black on the blue buttons which change to white on a mauve button once being hovered over or clicked on.
     * ### Typography
         After trialling potential font styles on [Google Fonts](https://fonts.google.com/), I decided to create my logo with the [Lobster](https://fonts.google.com/?query=Lobster) font as it looks playful and its handwritten nature give authenticity to my logo/brand. Out of the suggested pairings, [Montserrat](https://fonts.google.com/specimen/Lobster?query=Lobster#pairings) seemed to be the most suitable one to create the illusion of space and lightness on the website, I later added [Lato](https://fonts.google.com/specimen/Lato?query=lato#pairings) as an alterantive font style. [Give You Glory](https://fonts.google.com/specimen/Give+You+Glory?category=Handwriting#pairings) was used to create the signature on the Our Story section.
     * ### Icons
