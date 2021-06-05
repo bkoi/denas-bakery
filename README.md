@@ -151,9 +151,21 @@ Even though I tried all the possible solutions proposed by other coders online a
 ### GitHub Pages
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 
-### Forking the GitHub Repository
+1. Navigate to the repository on GitHub, then click **Settings**.
+1. Click **Pages** in the left sidebar.
+1. Under **GitHub Pages - Source** select the **Branch: master** drop-down menu and select a publishing source, then click **Save**.
+1. The live website is available at https://bkoi.github.io/denas-bakery/
+1. Any commits are pushed to GitHub which ensures that the GitHub Pages version gets updated in a timely manner.
 
 ### Making a Local Clone
+
+1. On GitHub navigate to the main repository, click **Code**.
+1. From the **Clone** options, use the **HTTPS** option and copy the link displayed.
+1. Open your IDE and ensure you have a Git Terminal open.
+1. Change the current working directory to the location where you want the cloned directory.
+1. Type ```git clone```, then paste the URL you copied earlier.
+1. Press **Enter** to create your local clone.
+
 
 ---
 ## Credits
