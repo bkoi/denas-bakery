@@ -126,19 +126,25 @@ The below validator services were used to ensure the syntactic correctness of th
 * The [WAVE Chrome Extension Tool](https://wave.webaim.org/extension/) was utilised to ensure better accessibility of each page of the website and made me add legend and label details to the Order and Contact page.
 
 ### Bugs
+#### Navigation
+On the landing page, there used to be a heading saying "Where gluten free meets delicious!", but eventually I decided to remove this entirely from the website because it overflew the navigation links only on iPad-Pro and made the Home button unusable.
+#### Home
+My carousel did not slide on iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro which I managed to fix by resizing my hero images to be of the same height and width.
+#### About
+The card containing the picture had some white space underneath the image itself but only on iOS screens. By setting max-width, height, display block for the id of this picture, I managed to solve this problem as well.
+#### Footer
+My footer did not stay at the bottom of those pages which had a bit less content, e.g. Thank You  and Contact page which I fixed with flexbox by using the code snippet found on [CSS Tricks](https://css-tricks.com/couple-takes-sticky-footer/) and [DEV Community](https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f) also assisted sorting this out.
 
-Footer issue - fix with flexbox [CSS Tricks](https://css-tricks.com/couple-takes-sticky-footer/)
-iOS 100vh bug on Order and Contact page - fix [Matt Smith](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
-
-keeping footer at the bottom on pages with less content, e.g. Thank You page  fix [DEV Community] (https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f)
-
-#### Order page 
-
-When carrying out viewport checks via the Chrome Developer Tool, 
-
-#### Contact page
+Another issue with the footer only occured when viewing the site on iPad-Pro. I managed to resolved this issue by using a fix recommended by a commentor on [Matt Smith's site](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/).
+#### Menu
+Even though I utilised Bootstrap cards to create the individual items on the Menu page, there was a white margin on the right hand side of each card so I resized all pictures to be of the same size, i.e. 640x428, which resolved this issue.
 
 ### Unfixed Bugs
+#### Footer
+On large screens my carousel images seem to overflow the footer which I tried to resolve by adding more padding to the div containing the slider images but I still have not been able to find the solution to this issue.
+#### Carousel 
+Even though I tried all the possible solutions proposed by other coders online as to how to make my carousel images cover the main section of the landing page on all screensizes, once the viewport is changed to a medium-sized or smaller device, there is some blank space between the footer and the bottom of the carousel image. It is another predominantly iOS bug.
+
 ---
 ## Deployment
 
