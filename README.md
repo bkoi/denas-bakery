@@ -120,12 +120,17 @@ This project is for educational purposes only and has been created for the User-
 
 ### Validator Testing
 The below validator services were used to ensure the syntactic correctness of the project.
-1. [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Result](./validators/html-validator.jpg)
-1. [W3C CS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](./validators/html-validator-final.jpg)
+* [W3C CS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](./validators/css-validator.jpg)
 
-The [WAVE Chrome Extension Tool](https://wave.webaim.org/extension/) was utilised to ensure better accessibility of each page of the website. 
+* The [WAVE Chrome Extension Tool](https://wave.webaim.org/extension/) was utilised to ensure better accessibility of each page of the website and made me add legend and label details to the Order and Contact page.
 
 ### Bugs
+
+Footer issue - fix with flexbox [CSS Tricks](https://css-tricks.com/couple-takes-sticky-footer/)
+iOS 100vh bug on Order and Contact page - fix [Matt Smith](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
+
+keeping footer at the bottom on pages with less content, e.g. Thank You page  fix [DEV Community] (https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f)
 
 #### Order page 
 
@@ -149,7 +154,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ### Code
 
-I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w), from [CI tutorials](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopment), from [Bootsnipp](https://bootsnipp.com/snippets/VgVDB), from [OSTraining](https://www.ostraining.com/blog/coding/responsive-google-maps/), [CSS Tricks](https://css-tricks.com/).
+I took some code snippets from [MDN Web Docs moz://a](https://developer.mozilla.org/), from [Codecademy](https://www.codecademy.com/), from [W3Schools](https://www.w3schools.com/), from [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w), from [CI tutorials](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopment), from [Bootsnipp](https://bootsnipp.com/snippets/VgVDB), from [OSTraining](https://www.ostraining.com/blog/coding/responsive-google-maps/).
 
 
 ### Content
