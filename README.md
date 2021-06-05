@@ -32,11 +32,11 @@ This project is for educational purposes only and has been created for the User-
         1. As a Returning Visitor, I want to be able to contact the seller if I have any queries.
 
     * #### Frequent User Goals
-        1. As a Frequent User, I want the website to work well on tablet and mobile as I prefer submitting my orders on the go.
+        1. As a Frequent User, I want the website to work well on tablet and mobile as I prefer submitting my orders on-the-go.
 
 * ### Design
     * #### Color Scheme
-        My final color palette was inspired by one found on [Easil](https://about.easil.com/how-to-create-a-stunning-color-palette-with-just-an-image/) which has a considerably good contrast ratio.
+        My final color palette was inspired by the one found on [Easil](https://about.easil.com/how-to-create-a-stunning-color-palette-with-just-an-image/) which has a considerably good contrast ratio.
 
         ![New Color Scheme](./assets/images/new-color-scheme.png)
 
@@ -46,7 +46,7 @@ This project is for educational purposes only and has been created for the User-
         * #000000: After deciding not to use #59312a as my main text color, I cast my vote on black for a better contrast.
         * #9ebfc9 and #a06b73: These colours were used for my call-to-action buttons to provide an upbeat contrast with their backgound color or image. I used two different text colors, black on the blue buttons which change to white on a mauve button once being hovered over or clicked on.
     * ### Typography
-        After trialling potential font styles on [Google Fonts](https://fonts.google.com/), I decided to create my logo with the [Lobster](https://fonts.google.com/?query=Lobster) font as it looks playful and its handwritten nature give authenticity to my logo/brand. Out of the suggested pairings, [Montserrat](https://fonts.google.com/specimen/Lobster?query=Lobster#pairings) seemed to be the most suitable one to create the illusion of space and lightness on the website, I later added [Lato](https://fonts.google.com/specimen/Lato?query=lato#pairings) as an alterantive font style. 
+        After trialling potential font styles on [Google Fonts](https://fonts.google.com/), I decided to create my logo with the [Lobster](https://fonts.google.com/?query=Lobster) font as it looks playful and its handwritten nature give authenticity to my logo, brand and main headers. Out of the suggested pairings, [Montserrat](https://fonts.google.com/specimen/Lobster?query=Lobster#pairings) seemed to be the most suitable one to create the illusion of space and lightness on the website, I later added [Lato](https://fonts.google.com/specimen/Lato?query=lato#pairings) as an alterantive font style. 
     * ### Icons
         In order to create a simple, yet effective style, I only used a few icons from the [Font Awesome](https://fontawesome.com/) library. I relied on them to make the website visually more appealing, for example, by using social media icons or a hamburger icon to make the UI design sleeker on mobile devices.
     * ### Structure
@@ -58,14 +58,31 @@ This project is for educational purposes only and has been created for the User-
 
     #### Desktop Wireframe - [View](./wireframes/desktop-wireframe-final.png)
     #### Tablet Wireframe - [View](./wireframes/tablet-wireframe-final.png)
-    #### Mobile Wireframe - [View](./wireframes/mobile-wireframe.png)
+    #### Mobile Wireframe - [View](./wireframes/mobile-wireframe-final.png)
 ---
 ## Features
-* ### Responsive on all device sizes
 
 ### Existing Features
+* Easy to use navigation which shrinks into a hamburger icon on mobile devices. Responsiveness of navbar was implemented by using Bootstrap.
+* A carousel with three hero images, created with Bootstrap, provides a nice, eye-catching touch to the static site and it also includes a unique selling point, namely that visitors can buy gluten free products online, right from the Home page.
+* About page where visitors can read about how DeNa's Bakery started eight years ago. It also encourages visitors to contact the business owner if they wish to see their favourite gf recipes added to the menu.
+* Easy to use Menu page with spaciously laid out pictures of each savoury and sweet menu item. Each picture is displayed on a card which clearly displays the unit price and a short description of each menu item. Visitors can directly purchase the products from the Menu page via the Shop now button. A disclaimer about the safety of these products is also presented at the bottom of the page.
+* Intuitive Order page where customers only need to provide their main contact details and they can easily select the product and the delivery date for their order.
+* Once an order is submitted, customers are thanked for their order, and a timescale is provided for the receipt of their email confirmation and a text regarding the estimated delivery time of their order.
+* Visitors/customers have the option to send a message via the website's contact form. The Contact page also includes an interactive map with the business' main information.
+
 
 ### Features Left to Implement
+* Registration feature
+* Log in feature to enable repeated purchases
+* Online purchase/basket feature with various payment processing facilities
+* Confirmation with the exact details of the order and the amount paid
+* Sign-up for a monthly newsletter/offers/prize draw
+* Online text messaging service regarding the estimated delivery time of each order
+* Pre-order site for corporate customers and another one for any other events related orders
+* Cookie checker
+* GDPR compliance checker
+* Creating the business' actual social media presence on Facebook, Twitter and Instagram
 ---
 ## Technologies Used
 
