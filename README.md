@@ -125,6 +125,58 @@ The below validator services were used to ensure the syntactic correctness of th
 
 * The [WAVE Chrome Extension Tool](https://wave.webaim.org/extension/) was utilised to ensure better accessibility of each page of the website and made me add legend and label details to the Order and Contact page.
 
+### Testing User stories from User Experience Section
+* #### First Time Visitor Goals
+    1. As a First Time Visitor, I want to understand the profile of this online shop.
+
+        1. Once the landing page is loaded, it is obvious from the **Call-To-Action**/ **Shop now** button on the carousel that this website sells gluten free bakery products online. 
+        1. Via the navigation links at the top right-corner, the visitor can choose to learn more about the online business by clicking on the **About** page.
+
+    1. As a First Time Visitor, I want to easily navigate the site and browse the products on offer.
+
+        1. Once the landing is loaded, it is obvious from the **Call-To-Action**/ **Shop now** button on the carousel that this website sells gluten free bakery products online. 
+        1. The visitor can skip any other pages and can directly access the Order page from here. 
+        1. Via the navigation links at the top right-corner, the visitor can choose to learn more about the online business, its menu, check out its order form or contact the vendor with any queries.
+
+    1. As a First Time Visitor, I want to view the menu, submit my order online and check how I can contact the seller.
+
+        1. From the **Home** page via the navigation links, the user can easily get to the **Menu** page and browse the items offered for sale there. They can directly submit their order from this page via the **Shop now** button or they can scroll up to the **Order**page link at the top.
+        1. The **Contact** page gives the user the option to either send a message to the vendor through the website, call them, email them or visit their physical shop. This page is easily accessible from the navigation bar at the top.
+
+    1. As a First Time Visitor, I want to check the company's social media presence and I expect that these links will open in separate tabs.
+
+        1. All pages have the well-known social media icons in the footer and by clicking on them the user can view the business' social media accounts in a separate tab.
+
+    1. As a First Time Visitor, I want to ensure that I can trust the gluten free nature of these products so I expect to see a disclaimer about this.
+
+        1. A very straighforward and visually highlighted disclaimer is placed right after the items section on the **Menu** page to ensure that customers with a gluten-related eating issue can trust the safety of these products.
+
+* #### Returning Visitor Goals
+    1. As a Returning Visitor, I want to find the products I usually order quickly, with their price displayed.
+
+        1. From the **Home** page via the navigation links, the user can easily get to the **Menu** page and browse the items offered for sale there. All items have their price and their main features on display. Regular visitors can directly submit their order from this page via the **Shop now** button or they can scroll up to the **Order**page link at the top.
+
+    1. As a Returning Visitor, I want to select the date of delivery for my order.
+
+        1. This feature is incorporated into the order form located on the **Order** page.
+
+    1. As a Returning Visitor, I want to receive a confirmation once my order has been placed.
+
+        1. Once an order is submitted, the visitor is directed to the **Thank You** page which confirms the successful creation of the order, notifies the user that an email confirmation is to follow in 10 minutes. The customer is also advised that they will get sent a text message to confirm the estimated delivery date on their chosen delivery date.
+
+    1. As a Returning Visitor, I want to be able to contact the seller if I have any queries.
+
+        1. The **Contact** page offers the user the option to send a message to the vendor through the website, call them, email them or visit their physical shop.
+
+* #### Frequent User Goals
+
+    1. As a Frequent User, I want the website to work well on tablet and mobile as I prefer submitting my orders on-the-go.
+
+        1. The website was built to be responsive on devices of all screen sizes to enable tablet and mobile users to browse the pages, the menu, submit their order or contact the seller.
+
+The webpage was extensively tested on various devices and browsers. Any bugs related to these are noted in the **Bugs** section.
+
+
 ### Bugs
 #### Navigation
 On the landing page, there used to be a heading saying "Where gluten free meets delicious!", but eventually I decided to remove this entirely from the website because it overflew the navigation links only on iPad-Pro and made the Home button unusable.
@@ -195,4 +247,7 @@ The pictures on the website originate from [Unsplash](https://unsplash.com/) and
 ### Acknowledgements
 
 I would like to thank my Mentor for his helpful feedback, and also the Slack community who had dealt with the same issues that I encountered during the development of this project. It was tremendously useful to have access to their previous challenges and their solutions. 
+
+### Remark
+My GitHub repository got corrupted 1 week before the submission deadline so I was unable to push any more changes, gits onto it. Consequently, I had to create a brand new repository to copy all the code and images over, but I was not able to copy my git commits. Therefore, the git commits enlisted on this repository are not a true reflection of the number of gits and the actual time spent on this project.
 
